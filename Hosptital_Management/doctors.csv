@@ -1,0 +1,31 @@
+doctor_id,doctor_name,department_id,specialization,experience_years
+D001,Dr. Advik Trivedi,DEP01,Cardiology,8
+D002,Dr. Kiara Mehta,DEP02,Neurology,28
+D003,Dr. Anaya Joshi,DEP03,Orthopedics,17
+D004,Dr. Kiara Desai,DEP04,Pediatrics,19
+D005,Dr. Aarav Joshi,DEP05,Dermatology,2
+D006,Dr. Tara Desai,DEP06,General Medicine,27
+D007,Dr. Reyansh Kapoor,DEP07,Gynecology,28
+D008,Dr. Kabir Desai,DEP08,ENT,12
+D009,Dr. Arjun Patel,DEP09,Ophthalmology,4
+D010,Dr. Advik Kapoor,DEP10,Oncology,17
+D011,Dr. Reyansh Mehta,DEP01,Cardiology,8
+D012,Dr. Ishaan Patel,DEP02,Neurology,8
+D013,Dr. Dev Parikh,DEP03,Orthopedics,24
+D014,Dr. Ishaan Patel,DEP04,Pediatrics,28
+D015,Dr. Reyansh Trivedi,DEP05,Dermatology,4
+D016,Dr. Anaya Parikh,DEP06,General Medicine,16
+D017,Dr. Ishaan Kapoor,DEP07,Gynecology,5
+D018,Dr. Advik Nair,DEP08,ENT,22
+D019,Dr. Anaya Trivedi,DEP09,Ophthalmology,18
+D020,Dr. Diya Rao,DEP10,Oncology,26
+D021,Dr. Kiara Mehta,DEP01,Cardiology,20
+D022,Dr. Tara Rao,DEP02,Neurology,25
+D023,Dr. Vivaan Rao,DEP03,Orthopedics,2
+D024,Dr. Diya Shah,DEP04,Pediatrics,17
+D025,Dr. Diya Trivedi,DEP05,Dermatology,26
+D026,Dr. Meera Patel,DEP06,General Medicine,10
+D027,Dr. Tara Shah,DEP07,Gynecology,22
+D028,Dr. Tara Patel,DEP08,ENT,6
+D029,Dr. Aadhya Kapoor,DEP09,Ophthalmology,4
+D030,Dr. Aarav Nair,DEP10,Oncology,13

@@ -1,0 +1,11 @@
+department_id,department_name,location
+DEP01,Cardiology,First Floor
+DEP02,Neurology,Second Floor
+DEP03,Orthopedics,Ground Floor
+DEP04,Pediatrics,First Floor
+DEP05,Dermatology,Second Floor
+DEP06,General Medicine,Ground Floor
+DEP07,Gynecology,Third Floor
+DEP08,ENT,First Floor
+DEP09,Ophthalmology,Second Floor
+DEP10,Oncology,Third Floor
